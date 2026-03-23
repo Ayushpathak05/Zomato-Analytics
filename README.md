@@ -2,11 +2,8 @@
 
 > End-to-end data analytics project built on the Zomato restaurant dataset — covering relational database design, exploratory analysis, interactive dashboards, and machine learning for rating prediction.
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Pivot%20Tables-green?logo=microsoftexcel&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+![Python Dashboard]([https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi&logoColor=white](https://github.com/Ayushpathak05/Zomato-Analytics/blob/main/Zomato_Analytics/zomato_city_dashboard.png))
 
 ---
 
